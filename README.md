@@ -1,4 +1,10 @@
-[header](https://capsule-render.vercel.app/api?type=radius&color=auto&height=200&section=header&text=leehyeryeong&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=leehyeryeong&fontSize=90&fontColor=FFFFFF)
+
+<a href="https://www.instagram.com/_leehyeryeong/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
+<a href="https://velog.io/@_leehyeryeong"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyeryeong)](https://github.com/leehyeryeong/github-readme-stats)
+
 
 <!--
 **leehyeryeong/leehyeryeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
