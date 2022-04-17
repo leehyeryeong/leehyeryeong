@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=leehyeryeong&fontSize=90&fontColor=BDBDBD)
 
 ## info
@@ -11,7 +13,9 @@
 ## tool
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyeryeong)](https://github.com/leehyeryeong/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyeryeong)](https://github.com/leehyeryeong/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyeryeong)](https://github.com/leehyeryeong/github-readme-stats)
+
+</div>
 
 
 <!--
